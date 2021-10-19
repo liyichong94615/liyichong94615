@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liyichong94615
 - 👀 I’m interested in Smart contract development by using Solidity.
-- 🌱 I’m currently learning Rust language.
 - 💞️ I’m looking to collaborate on Blockchain dev.
 - 📫 This is my gmail: liyichong94@gmail.com
 
